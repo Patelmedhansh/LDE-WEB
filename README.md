@@ -36,7 +36,7 @@ A modern, responsive website for the LDE (Lead Dominate Eliminate) esports organ
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/lde-esports.git
+git clone https://github.com/Patelmedhansh/LDE-WEB.git
 cd lde-esports
 ```
 
