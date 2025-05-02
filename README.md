@@ -2,7 +2,7 @@
 
 A modern, responsive website for the LDE (Lead Dominate Eliminate) esports organization built with React, TypeScript, and Tailwind CSS.
 
-![LDE Esports](https://images.pexels.com/photos/7915548/pexels-photo-7915548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![LDE Esports](./images/cover.png)
 
 ## Features
 
