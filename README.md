@@ -4,6 +4,9 @@ A modern, responsive website for the LDE (Lead Dominate Eliminate) esports organ
 
 ![LDE Esports](./images/cover.png)
 
+## Link 
+- https://lde-org.netlify.app/
+
 ## Features
 
 - 🎮 Interactive team roster showcase
